@@ -1,2 +1,0 @@
-print('привет')
-print('total')
